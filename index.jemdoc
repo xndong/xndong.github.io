@@ -11,6 +11,7 @@ State Key Laboratory for C4KISR, China Aerospace <br>
 Beijing Institute of Control and Electronic Technology <br>
 MuXidi No.51, Xicheng District, Beijing</p>
 <p>Email: dongxn02 at gmail dot com</p>
+<!-- <p><font color="blue"><b>[News]:</b> I am looking for a research internship to prepare for my Phd Application.</font></p> -->
 <p>
 <!--a href="https://github.com/xndong" target="_blank"><img src="./pic/dblp.png" height="30px" alt="[DBLP]"></a-->
 <!--a href="https://github.com/xndong" target="_blank"><img src="./pic/googlescholar.png" height="30px" alt="[Google Scholar]"></a-->
@@ -29,18 +30,49 @@ MuXidi No.51, Xicheng District, Beijing</p>
 	Currently, I work as an engineer at Beijing Institute of Control and Electronic Technology, <a href="http://www.casic.com/" target="_blank">China Aerospace Science and Technology</a>. I obtained my master's degree in engineering with major in computer science and technolgy at School of Computer, <a href="https://www.nudt.edu.cn/" target="_blank">National University of Defense Technology</a>. Prior to that, I studied computer science and technology and received my bachelor's degree from <a href="https://cs.xidian.edu.cn/index.html" target="_blank">School of Computer</a>, <a href="https://www.xidian.edu.cn/">Xidian University</a>. I worked with Prof. <a href="http://web.xidian.edu.cn/jfma/" target="_blank"> Jianfeng Ma </a> for undergraduate research.
 </p>
 
-<p>My research has been focused on developing machine learning algorithms for real-world problems; and the fundamental problems regarding to low-data regime issues, such as few-shot learning, semi-supervised learning and unsupervised learning. </p>
+<p>
+My research interests primarily include machine learning(machine learning algorithms and theory, computational and statistical approaches to machine learning and deep learning.) and its application. <!--various applications, particularly in computer vision.-->
+I am dedicated to developing shallow or deep models to extract, represent and understand information encoded in data and establishing algorithms which have nice theoretical guarantees and can perform well in practice. <!--shallow or deep machine learning algorithms-->
+</p>
 
 <p>I also spent half a year at <a href="https://www.msra.cn/zh-cn/connections">Microsoft Research Asia</a>, working with Beibei Shi on academic collaboration program management. </p>
 }}
 
 == Selected Prizes & Awards
 
-*National Scholarship*(1%),
+*National Scholarship*(1%),Top Prize Scholarship of Xidian University (1%),National Encouragement Scholarship.
 \n
-CUMCM
+Huawei Scholarship, China Telecom Scholarship.
 \n
-CCF OUA
+NUDT Graduate Scholarship(twice), First Prize Scholarship of Xidian University (twice).
+\n
+Second prize in American Mathematical Contest in Modeling(MCM).
+\n
+First prize in Mathematical Contest in Modeling of Shaanxi Region(CUMCM).
+\n
+First prize in Information Security Contest of Shaanxi Region.
+\n
+55th place/7186 Alibaba Tichi Big Data Contest in Mobile Recommendation.
+\n
+*China Computer Federation Outstanding Undergraduate Award(CCF OUA)*.
+\n
+Outstanding Graduate, Outstanding Graduate Cadre, Outstanding Student Leader(twice).
+\n
+Star of Microsoft Student Technical Club
 
+== Patent and Publication <!--a very delicate program, must have a space between == and Patent. F**k off!-->
 
+Translation Book: Practical Bot Development(ISBN978-7-111-62921-4).
+\n
+National Defense Patent: A *** C4ISR System based on Mobile Device.(under review)
+\n
+National Defense Patent: A *** Management System for Remote Sense Ground Station.(under review)
+\n
 
+== Projects
+
+- under construction...see my cv for more information.
+
+== Intership/Experience
+
+- under construction...see my cv for more information.
